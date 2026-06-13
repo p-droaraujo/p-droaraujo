@@ -38,6 +38,6 @@ Feel free to reach out, and let's explore how we can collaborate.
 <br>
 <br>
 <br>
-<img align="left"  width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedAraujo&layout=compact&theme=vision-friendly-dark" /> 
+<img align="left"  width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-droaraujo&layout=compact&theme=vision-friendly-dark" /> 
 <br><br>
 
