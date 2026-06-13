@@ -5,7 +5,7 @@
 </div>
  
 <div height="250" align=left>
-	Actually, it is rocket science. Engineer, physicist. Curiosity is my path.
+	Rocket scientist, engineer, physicist. Curiosity is my path.
 	<br>
 	<br>
 	<br>
