@@ -5,30 +5,33 @@
 </div>
  
 <div height="250" align=left>
-	Full Stack Software Developer, Aerospace Engineer and Physicist. 
+	Actually, it is rocket science. Engineer, physicist. Curiosity is my path.
 	<br>
 	<br>
 	<br>
-	Currently working with Python and JS frameworks.
+	Currently using AI to do almost all the coding.
 	<br>
 	<br>
 	Studying the realms of Machine Learning and C for systems engineering and robotics.
+	I am building Expandir, to create the machinery required to harness space resources.
+	<br>
+	<br>
+	CTO at <a href="https://github.com/vempix">@Vempix</a>, brazilian Pix confirmation system.
 	<br>
 	<br>
 </div>
-Feel free to reach out, and let's explore how we can collaborate to bring your vision to life.
+Feel free to reach out, and let's explore how we can collaborate.
 <br>
 <br>
-Also, check out my website:
-<a href="https://p-dro.com/">@p-dro
+<a href="https://p-dro.com/">@p-dro</a>
 <br>
 <br>
 	
-# 💻 Tech I play with
+# 💻
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,react,c,cpp,flask,javascript,html,css,git,docker,mongodb,azure,postman,selenium,matlab" />
+    <img src="https://skillicons.dev/icons?i=py,react,c,cpp,flask,javascript,html,css,git,docker,mongodb,azure,selenium,matlab" />
   </a>
 </p>
 <br>
