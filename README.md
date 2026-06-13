@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm P-dro
+# Hi, I'm P-dro
   
 <div align=right height="250">
 	<img align="right" width="400px" height="250" alt="GIF" src=program.gif/>
@@ -9,7 +9,7 @@
 	<br>
 	<br>
 	<br>
-	Currently using AI to do almost all the coding.
+	AI writes most of the code for me now.
 	<br>
 	<br>
 	Studying the realms of Machine Learning and C for systems engineering and robotics.
