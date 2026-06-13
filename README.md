@@ -13,7 +13,8 @@
 	<br>
 	<br>
 	Studying the realms of Machine Learning and C for systems engineering and robotics.
-	I am building Expandir, to create the machinery required to harness space resources.
+	<br>
+	I am also building Expandir, to create the machinery required to harness space resources.
 	<br>
 	<br>
 	CTO at <a href="https://github.com/vempix">@Vempix</a>, brazilian Pix confirmation system.
