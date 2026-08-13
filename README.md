@@ -5,19 +5,19 @@
 </div>
  
 <div height="250" align=left>
-	Rocket scientist, engineer, physicist. Curiosity is my path.
+	Engineering polymath, rocket scientist, physicist. Curiosity is my path.
 	<br>
 	<br>
 	<br>
-	AI writes most of the code for me now.
+	AI writes most of the code for me now. I build and orchestrate AI workflows.
 	<br>
 	<br>
 	Studying the realms of Machine Learning and C for systems engineering and robotics.
 	<br>
+	<br>
+	CTO at <a href="https://github.com/vempix">@Vempix</a>, brazilian Pix confirmation system and financial ERP automations.
+	<br>
 	I am also building Expandir, to create the machinery required to harness space resources.
-	<br>
-	<br>
-	CTO at <a href="https://github.com/vempix">@Vempix</a>, brazilian Pix confirmation system.
 	<br>
 	<br>
 </div>
