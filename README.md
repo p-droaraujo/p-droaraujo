@@ -32,12 +32,8 @@ Feel free to reach out, and let's explore how we can collaborate.
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,react,c,cpp,flask,javascript,html,css,git,docker,mongodb,azure,selenium,matlab" />
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,react,c,cpp,javascript,html,css,git,docker,mongodb,azure,selenium,matlab" />
   </a>
 </p>
-<br>
-<br>
-<br>
-<img align="left"  width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-droaraujo&layout=compact&theme=vision-friendly-dark" /> 
 <br><br>
 
